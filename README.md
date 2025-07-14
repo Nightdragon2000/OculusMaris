@@ -6,6 +6,10 @@
 
 Users interact with the system using natural hand gestures, tracked through a webcam, to explore ship data without physical contact. The architecture is modular and adaptable, allowing easy reconfiguration for other geographic locations or installations.
 
+**Watch the Demo Video**  
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://youtu.be/q2PuZVby6DQ)  
+*Click the image above to watch the full system demonstration on YouTube (Unlisted).*
+
 ## Features
 
 - Real-time AIS decoding and ship tracking
@@ -100,4 +104,3 @@ To run Oculus Maris, the following system configuration is recommended:
   - An AIS receiver connected via USB 
 - **Database**:
   - PostgreSQL or MySQL server installed and accessible
-  - A database and user credentials created prior to setup
