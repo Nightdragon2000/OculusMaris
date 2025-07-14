@@ -74,8 +74,6 @@ When running the main application, the system will:
 
 You may also choose to continue without live AIS input. In this case, the system operates in offline mode using cached data.
 
----
-
 ### Interaction
 
 - **To select a ship**: Point your index finger and hover above the ship’s position for ~2 seconds  
@@ -89,10 +87,6 @@ You may also choose to continue without live AIS input. In this case, the system
 
 The camera tracking zone is defined during calibration and may be adjusted at any time through the configuration interface.
 
----
-
-
-
 
 ## System Requirements
 
@@ -101,9 +95,9 @@ To run Oculus Maris, the following system configuration is recommended:
 - **Operating System**: Windows 10 or later  
 - **Python**: Version 3.8 or newer  
 - **Hardware**:
-  - A webcam (for gesture detection)
-  - A second monitor or projector (for spatial map projection)
-  - An AIS receiver connected via USB (typically assigned to COM5)  
+  - A webcam
+  - A second monitor or projector
+  - An AIS receiver connected via USB 
 - **Database**:
   - PostgreSQL or MySQL server installed and accessible
   - A database and user credentials created prior to setup
