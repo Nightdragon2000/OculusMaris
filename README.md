@@ -6,7 +6,7 @@
 
 Users interact with the system using natural hand gestures, tracked through a webcam, to explore ship data without physical contact. The architecture is modular and adaptable, allowing easy reconfiguration for other geographic locations or installations.
 
-**Click the image to watch the Demo Video** 
+**Click the image to watch the demo video** 
 
 <a href="https://youtu.be/q2PuZVby6DQ">
   <img src="assets/logos/logo_with_text.png" alt="Watch Oculus Maris Demo" width="200"/>
