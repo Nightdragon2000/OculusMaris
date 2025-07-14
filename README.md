@@ -7,7 +7,7 @@
 Users interact with the system using natural hand gestures, tracked through a webcam, to explore ship data without physical contact. The architecture is modular and adaptable, allowing easy reconfiguration for other geographic locations or installations.
 
 **Watch the Demo Video**  
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://youtu.be/q2PuZVby6DQ)  
+[![Watch the video](assets/logos/logo_with_text.png)](https://youtu.be/q2PuZVby6DQ)  
 *Click the image above to watch the full system demonstration on YouTube (Unlisted).*
 
 ## Features
