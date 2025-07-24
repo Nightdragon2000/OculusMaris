@@ -107,4 +107,4 @@ To run Oculus Maris, the following system configuration is recommended:
   - A second monitor or projector
   - An AIS receiver connected via USB 
 - **Database**:
-  - PostgreSQL or MySQL server installed and accessible
+  - PostgreSQL or MySQL 
